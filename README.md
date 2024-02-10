@@ -1,1 +1,1 @@
-Just trying to test out github repositories so I can upload my projects
+random little things for practice
